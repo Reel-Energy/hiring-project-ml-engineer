@@ -43,4 +43,4 @@ We focus on three main points in our evaluation:
 
 1. How you solved the task. There are many ways to approach a task like this.
 2. Your reasoning about choosing this solution.
-3. How you would manage a model deployed to production over time.
+3. How you would manage a model deployed to production over time - we will discuss this at the interview.
