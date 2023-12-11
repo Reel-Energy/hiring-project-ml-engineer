@@ -16,7 +16,7 @@ We expect the project to take 2-3 hours to complete. You are always more than we
 
 #### 1. Train a model to forecast our consumption
 
-We have about two and a half years of hourly consumption data in the dataset.csv file.  Using this dataset, create a model that can forecast 10 days into the future.
+The dataset.csv file contains about two and a half years of hourly consumption data.  Using this dataset, create a model that can forecast 10 days into the future.
 
 #### 2. Evaluate your model
 
