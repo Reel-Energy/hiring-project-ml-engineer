@@ -29,13 +29,11 @@ Write a short (1200 characters max) explanation of how your solution works, why 
 ## Submitting your work
 
 1. Clone this repository locally
-2. Create and switch to a local branch for development
-3. Develop your solution
-4. Once you're done and have committed everything, create a patch of your changes
-   - `git diff main > <your_name>.patch`
-5. Send the following to christian@reel.energy
-   1. The patch file
-   2. The description of your solution in pdf format
+2. Develop your solution
+3. Once you're done, create zip of the main folder and name it `<your_name>.zip`
+4. Send the following to christian@reel.energy
+   1. The zip file
+   2. The description of your solution in pdf or md format
 
 ## How we evaluate
 
